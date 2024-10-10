@@ -71,7 +71,8 @@ int main()
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-10 093709](https://github.com/user-attachments/assets/9bb74eb3-b79a-45cd-bef5-10128f2059ba)
+![Screenshot 2024-10-10 095348](https://github.com/user-attachments/assets/a61cfd99-e765-4f7a-a2b9-20ab4f504eb5)
+
 
 
 
